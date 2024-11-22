@@ -18,7 +18,7 @@ function Projects() {
   return (
     <div className="max-w-4xl mx-auto p-6">
       <h2 className="text-3xl font-bold text-teal-600 dark:text-teal-400 mb-6">
-        My Projects
+        my projects
       </h2>
       <div className="grid gap-6 md:grid-cols-2">
         {projects.map((project, index) => (

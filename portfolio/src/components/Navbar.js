@@ -9,7 +9,7 @@ function Navbar() {
         <div className="flex justify-between h-16">
           <div className="flex items-center">
             <Link to="/" className="text-xl font-bold text-teal-600 dark:text-teal-400">
-              Zenn
+              zihwoi
             </Link>
           </div>
           <div className="flex items-center space-x-4">
