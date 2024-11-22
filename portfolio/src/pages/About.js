@@ -9,16 +9,18 @@ function About() {
       </h2>
       <div className="text-gray-700 dark:text-gray-300">
         <p className="mb-4">
-          I'm a passionate software developer with expertise in modern web technologies.
+          i'm a software developer learning to build new things and enjoy the world.
         </p>
         <p className="mb-4">
-          My skills include:
+          what am i learning:
         </p>
         <ul className="list-disc list-inside mb-4">
           <li>React.js</li>
           <li>JavaScript/TypeScript</li>
           <li>Node.js</li>
           <li>Tailwind CSS</li>
+          <li>Painting</li>
+          <li>Videography</li>
         </ul>
       </div>
     </div>
