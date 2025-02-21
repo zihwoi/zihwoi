@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **zihwoi/zihwoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about the universe and the world.
 - 📫 How to reach me: X (Twitter) @zihwoi
 - ⚡ Fun fact: i was 7 years old when I first played on a computer desktop.
--->
+
