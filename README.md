@@ -1,9 +1,6 @@
-## Hi there 👋
+## Hello! :)
 
-
-**zihwoi/zihwoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Welcome!
 
 - 🔭 I’m currently working on my skills in Java, MongoDB, Postman.
 - 🌱 I’m currently learning React.js.
